@@ -34,10 +34,10 @@
         {
             "sourcePath": "/Users/aormsby/dx1/geolocation/force-app/main/default",
             "isDirectory": true,
-            "size": 306,
-            "modifiedTime": 1500978052000,
-            "changeTime": 1500978052000,
-            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297",
+            "size": 340,
+            "modifiedTime": 1500980972000,
+            "changeTime": 1500980972000,
+            "contentHash": "0d7312666f7b358c4f333f091f45816d28936bf2",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -49,11 +49,11 @@
             "sourcePath": "/Users/aormsby/dx1/geolocation/force-app/main/default/aura",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 170,
-            "modifiedTime": 1500978824000,
-            "changeTime": 1500978824000,
+            "size": 204,
+            "modifiedTime": 1500981019000,
+            "changeTime": 1500981019000,
             "isWorkspace": false,
-            "contentHash": "9c98372a45cf06c7fb95ee4aa450766e3a658e86"
+            "contentHash": "8cd9050c0243d5302f6ec35c695333142456ef1f"
         }
     ],
     [
@@ -856,7 +856,7 @@
             "sourcePath": "/Users/aormsby/dx1/geolocation/force-app/main/default/aura/AccountLocator",
             "isDirectory": true,
             "size": 272,
-            "modifiedTime": 1500979008000,
+            "modifiedTime": 1500981212000,
             "changeTime": 1500977869000,
             "contentHash": "f6bd7d3a23295ae7ef7a6f8a51c67ae972d48a28",
             "isMetadataFile": false,
@@ -870,10 +870,10 @@
             "sourcePath": "/Users/aormsby/dx1/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 163,
-            "modifiedTime": 1500979008000,
-            "changeTime": 1500979008000,
-            "contentHash": "faff2ef516b058a99fefc6a339cae8ef27712344"
+            "size": 170,
+            "modifiedTime": 1500981212000,
+            "changeTime": 1500981212000,
+            "contentHash": "201d3dc8f3c1d5f6b3f461a810b9bfb59cf69f4b"
         }
     ],
     [
@@ -1035,182 +1035,312 @@
     [
         "/Users/aormsby/dx1/geolocation/force-app/main/default/aura/AccountList",
         {
-            "state": "u",
             "sourcePath": "/Users/aormsby/dx1/geolocation/force-app/main/default/aura/AccountList",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 272,
             "modifiedTime": 1500978941000,
             "changeTime": 1500978941000,
-            "contentHash": "9b10fc950c90c6623061197f88c0db00961e1f2f"
+            "contentHash": "9b10fc950c90c6623061197f88c0db00961e1f2f",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/aormsby/dx1/geolocation/force-app/main/default/aura/AccountListItem",
         {
-            "state": "u",
             "sourcePath": "/Users/aormsby/dx1/geolocation/force-app/main/default/aura/AccountListItem",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 272,
             "modifiedTime": 1500978659000,
             "changeTime": 1500978659000,
-            "contentHash": "9fe0106ed0f04a02776eb4dbdb9bb1ee85be87b7"
+            "contentHash": "9fe0106ed0f04a02776eb4dbdb9bb1ee85be87b7",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/aormsby/dx1/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/aormsby/dx1/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 335,
             "modifiedTime": 1500978737000,
             "changeTime": 1500978737000,
-            "contentHash": "efea5f1e1174aa3663842a1d159b2d95586a29aa"
+            "contentHash": "efea5f1e1174aa3663842a1d159b2d95586a29aa",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/aormsby/dx1/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/aormsby/dx1/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 243,
             "modifiedTime": 1500978684000,
             "changeTime": 1500978684000,
-            "contentHash": "22ef10b2acb59793801abaf45e483c705bc14c8c"
+            "contentHash": "22ef10b2acb59793801abaf45e483c705bc14c8c",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/aormsby/dx1/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
         {
-            "state": "u",
             "sourcePath": "/Users/aormsby/dx1/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 112,
             "modifiedTime": 1500978941000,
             "changeTime": 1500978941000,
-            "contentHash": "ffb0c190d22412de018267aa248858c3c8872075"
+            "contentHash": "ffb0c190d22412de018267aa248858c3c8872075",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/aormsby/dx1/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/aormsby/dx1/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 256,
             "modifiedTime": 1500978905000,
             "changeTime": 1500978905000,
-            "contentHash": "9f73369ca66b087616f3bb8205b8e3f57484b270"
+            "contentHash": "9f73369ca66b087616f3bb8205b8e3f57484b270",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/aormsby/dx1/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
         {
-            "state": "u",
             "sourcePath": "/Users/aormsby/dx1/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1500978684000,
             "changeTime": 1500978684000,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/aormsby/dx1/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
         {
-            "state": "u",
             "sourcePath": "/Users/aormsby/dx1/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1500978684000,
             "changeTime": 1500978684000,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/aormsby/dx1/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/aormsby/dx1/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 121,
             "modifiedTime": 1500978627000,
             "changeTime": 1500978627000,
-            "contentHash": "c2ab5bf1904268e2a6f09485e65d23c5c4d91f4a"
+            "contentHash": "c2ab5bf1904268e2a6f09485e65d23c5c4d91f4a",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/aormsby/dx1/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/aormsby/dx1/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 247,
             "modifiedTime": 1500978583000,
             "changeTime": 1500978583000,
-            "contentHash": "696b3214008c0232cc260fded1de3ff036b1a0a0"
+            "contentHash": "696b3214008c0232cc260fded1de3ff036b1a0a0",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/aormsby/dx1/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
         {
-            "state": "u",
             "sourcePath": "/Users/aormsby/dx1/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 171,
             "modifiedTime": 1500978659000,
             "changeTime": 1500978659000,
-            "contentHash": "451fd0d05cb763c543025f2a90dcb679337ed0c9"
+            "contentHash": "451fd0d05cb763c543025f2a90dcb679337ed0c9",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/aormsby/dx1/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/aormsby/dx1/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 65,
             "modifiedTime": 1500978583000,
             "changeTime": 1500978583000,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/aormsby/dx1/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
         {
-            "state": "u",
             "sourcePath": "/Users/aormsby/dx1/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1500978583000,
             "changeTime": 1500978583000,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/aormsby/dx1/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
         {
-            "state": "u",
             "sourcePath": "/Users/aormsby/dx1/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1500978583000,
             "changeTime": 1500978583000,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aormsby/dx1/geolocation/force-app/main/default/staticresources/leaflet.resource-meta.xml",
+        {
+            "sourcePath": "/Users/aormsby/dx1/geolocation/force-app/main/default/staticresources/leaflet.resource-meta.xml",
+            "isDirectory": false,
+            "size": 280,
+            "modifiedTime": 1500980972000,
+            "changeTime": 1500980972000,
+            "contentHash": "3459249a26db820c96b6be5f610ea0314ffb21e6",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aormsby/dx1/geolocation/force-app/main/default/staticresources/leaflet.resource",
+        {
+            "sourcePath": "/Users/aormsby/dx1/geolocation/force-app/main/default/staticresources/leaflet.resource",
+            "isDirectory": false,
+            "size": 480856,
+            "modifiedTime": 1500980972000,
+            "changeTime": 1500980972000,
+            "contentHash": "2e36ead355db885f91bc4ac6e7a7591a04dd469f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aormsby/dx1/geolocation/force-app/main/default/staticresources",
+        {
+            "sourcePath": "/Users/aormsby/dx1/geolocation/force-app/main/default/staticresources",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1500980972000,
+            "changeTime": 1500980972000,
+            "contentHash": "3f1f5b622ae048af33321106049a3d2e9c6f32fa",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/aormsby/dx1/geolocation/force-app/main/default/aura/AccountMap",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aormsby/dx1/geolocation/force-app/main/default/aura/AccountMap",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 272,
+            "modifiedTime": 1500981283000,
+            "changeTime": 1500981283000,
+            "contentHash": "a5a66581a4cb3394b3727c3a6a9ae0440bec88e4"
+        }
+    ],
+    [
+        "/Users/aormsby/dx1/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aormsby/dx1/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 262,
+            "modifiedTime": 1500981067000,
+            "changeTime": 1500981067000,
+            "contentHash": "05e06f2e799900d1f0470eb665a9ebcfd294bc72"
+        }
+    ],
+    [
+        "/Users/aormsby/dx1/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aormsby/dx1/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 242,
+            "modifiedTime": 1500981019000,
+            "changeTime": 1500981019000,
+            "contentHash": "7a615400a46f36b7d0acfc6610df3c489c605403"
+        }
+    ],
+    [
+        "/Users/aormsby/dx1/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aormsby/dx1/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 44,
+            "modifiedTime": 1500981283000,
+            "changeTime": 1500981283000,
+            "contentHash": "61f600c86d76fc39798d1bc72821097398dc6165"
+        }
+    ],
+    [
+        "/Users/aormsby/dx1/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aormsby/dx1/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 458,
+            "modifiedTime": 1500981117000,
+            "changeTime": 1500981117000,
+            "contentHash": "1e26f03188fd26abdb57da6c6f10aca4d03ce9b2"
+        }
+    ],
+    [
+        "/Users/aormsby/dx1/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aormsby/dx1/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1500981019000,
+            "changeTime": 1500981019000,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+        }
+    ],
+    [
+        "/Users/aormsby/dx1/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aormsby/dx1/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1500981019000,
+            "changeTime": 1500981019000,
             "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
         }
     ]
